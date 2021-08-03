@@ -17,7 +17,7 @@ ___
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:akbor.hossain.rifat5374@gmail.com)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/akbor5374/)
 
-<img width="550px" alt="Akbor Hossain Rifat's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=masudrana08&show_icons=true"/>
+<!-- <img width="550px" alt="Akbor Hossain Rifat's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=masudrana08&show_icons=true"/> -->
 </br>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana08&card_width=550)](https://github.com/akbor5374)
