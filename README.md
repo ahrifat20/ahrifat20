@@ -20,4 +20,4 @@ ___
 <img width="550px" alt="Masud Rana's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=masudrana08&show_icons=true"/>
 </br>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana08&card_width=550)](https://github.com/masudrana08/masudrana08)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana08&card_width=550)](https://github.com/akbor5374)
